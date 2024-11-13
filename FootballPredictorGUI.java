@@ -10,6 +10,7 @@ import org.apache.http.util.EntityUtils;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 // this is just a test to confirm if git pull works
+// this is another test to confirm wheather the commit works in real time
 public class FootballPredictorGUI extends JFrame {
     private JTextField team1Field, team2Field, locationField;
     private JButton predictButton, resetButton;
