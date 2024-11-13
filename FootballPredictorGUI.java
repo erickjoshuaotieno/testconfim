@@ -9,7 +9,7 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-
+// this is just a test to confirm if git pull works
 public class FootballPredictorGUI extends JFrame {
     private JTextField team1Field, team2Field, locationField;
     private JButton predictButton, resetButton;
